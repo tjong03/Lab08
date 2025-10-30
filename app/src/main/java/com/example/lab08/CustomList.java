@@ -20,7 +20,7 @@ public class CustomList {
      * @param city
      */
     public void addCity(City city) {
-        // cities.add(city);
+        cities.add(city);
     }
 
     // check Git
