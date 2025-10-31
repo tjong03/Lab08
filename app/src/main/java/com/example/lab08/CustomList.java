@@ -32,6 +32,6 @@ public class CustomList {
     }
 
     public void DeleteCity(City city) {
-        //cities.remove(city);
+        cities.remove(city);
     }
 }
